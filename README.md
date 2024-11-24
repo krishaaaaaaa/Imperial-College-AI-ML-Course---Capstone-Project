@@ -1,5 +1,5 @@
-**Project Overview
-**This project focuses on building machine learning models to predict whether an individual will default on a loan using the German Credit Dataset from the UCI Machine Learning Repository. The dataset includes demographic, financial, and credit history features and poses a binary classification problem:
+Project Overview
+This project focuses on building machine learning models to predict whether an individual will default on a loan using the German Credit Dataset from the UCI Machine Learning Repository. The dataset includes demographic, financial, and credit history features and poses a binary classification problem:
 •	Class 0: No Default
 •	Class 1: Default
 The goal is to develop a robust credit risk assessment model that can assist financial institutions in decision-making processes. After evaluating multiple models, Logistic Regression was finalized as the best-performing model, offering interpretability and strong performance.
