@@ -1,4 +1,5 @@
 Project Overview
+
 This project focuses on building machine learning models to predict whether an individual will default on a loan using the German Credit Dataset from the UCI Machine Learning Repository. The dataset includes demographic, financial, and credit history features and poses a binary classification problem:
 •	Class 0: No Default
 •	Class 1: Default
